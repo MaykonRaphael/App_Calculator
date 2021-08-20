@@ -119,7 +119,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#222',
   },
   resultText: {
-    fontSize: 24,
+    fontSize: 45,
     color: '#FFF',
   },
   operations: {
